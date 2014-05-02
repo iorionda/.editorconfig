@@ -1,0 +1,6 @@
+# Include project-specific ignores in this file
+# OS X template from github: https://github.com/github/gitignoreignoring-files
+
+.DS_Store
+.AppleDouble
+.LSOverride
